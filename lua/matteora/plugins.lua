@@ -28,5 +28,7 @@ return require('packer').startup(function(use)
 
 	use ('neovim/nvim-lspconfig')
 
-    -- use ('alexghergh/nvim-tmux-navigation')
+  use('folke/zen-mode.nvim')
+
+  use ('alexghergh/nvim-tmux-navigation')
 end)
