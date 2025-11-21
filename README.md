@@ -42,5 +42,5 @@ My NeoVim personal configuration
 |Telescope|Normal|`<leader>pf`|Find files|
 |Telescope|Normal|`<Ctrl>p`|Find only git files|
 |Telescope|Normal|`<leader>ps`|Find a string in files|
-|Telescope|Normal|`<leader>p2`|Find word under cursor in files|
+|Telescope|Normal|`<leader>pw`|Find word under cursor in files|
 |Undotree|Normal|`<leader>u`|Toggle undotree menu|
